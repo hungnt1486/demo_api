@@ -1,0 +1,28 @@
+G:\SangNguyen\API\Api Template\ApiTemplate\bin\Debug\netcoreapp2.1\ApiTemplate.deps.json
+G:\SangNguyen\API\Api Template\ApiTemplate\bin\Debug\netcoreapp2.1\ApiTemplate.runtimeconfig.json
+G:\SangNguyen\API\Api Template\ApiTemplate\bin\Debug\netcoreapp2.1\ApiTemplate.runtimeconfig.dev.json
+G:\SangNguyen\API\Api Template\ApiTemplate\bin\Debug\netcoreapp2.1\ApiTemplate.dll
+G:\SangNguyen\API\Api Template\ApiTemplate\bin\Debug\netcoreapp2.1\ApiTemplate.pdb
+G:\SangNguyen\API\Api Template\ApiTemplate\obj\Debug\netcoreapp2.1\ApiTemplate.csprojAssemblyReference.cache
+G:\SangNguyen\API\Api Template\ApiTemplate\obj\Debug\netcoreapp2.1\ApiTemplate.csproj.CoreCompileInputs.cache
+G:\SangNguyen\API\Api Template\ApiTemplate\obj\Debug\netcoreapp2.1\ApiTemplate.RazorAssemblyInfo.cache
+G:\SangNguyen\API\Api Template\ApiTemplate\obj\Debug\netcoreapp2.1\ApiTemplate.RazorAssemblyInfo.cs
+G:\SangNguyen\API\Api Template\ApiTemplate\obj\Debug\netcoreapp2.1\ApiTemplate.AssemblyInfoInputs.cache
+G:\SangNguyen\API\Api Template\ApiTemplate\obj\Debug\netcoreapp2.1\ApiTemplate.AssemblyInfo.cs
+G:\SangNguyen\API\Api Template\ApiTemplate\obj\Debug\netcoreapp2.1\ApiTemplate.RazorTargetAssemblyInfo.cache
+G:\SangNguyen\API\Api Template\ApiTemplate\obj\Debug\netcoreapp2.1\ApiTemplate.dll
+G:\SangNguyen\API\Api Template\ApiTemplate\obj\Debug\netcoreapp2.1\ApiTemplate.pdb
+G:\SangNguyen\API\ApiTest\ApiTemplate\bin\Debug\netcoreapp2.1\ApiTemplate.deps.json
+G:\SangNguyen\API\ApiTest\ApiTemplate\bin\Debug\netcoreapp2.1\ApiTemplate.runtimeconfig.json
+G:\SangNguyen\API\ApiTest\ApiTemplate\bin\Debug\netcoreapp2.1\ApiTemplate.runtimeconfig.dev.json
+G:\SangNguyen\API\ApiTest\ApiTemplate\bin\Debug\netcoreapp2.1\ApiTemplate.dll
+G:\SangNguyen\API\ApiTest\ApiTemplate\bin\Debug\netcoreapp2.1\ApiTemplate.pdb
+G:\SangNguyen\API\ApiTest\ApiTemplate\obj\Debug\netcoreapp2.1\ApiTemplate.csprojAssemblyReference.cache
+G:\SangNguyen\API\ApiTest\ApiTemplate\obj\Debug\netcoreapp2.1\ApiTemplate.csproj.CoreCompileInputs.cache
+G:\SangNguyen\API\ApiTest\ApiTemplate\obj\Debug\netcoreapp2.1\ApiTemplate.RazorAssemblyInfo.cache
+G:\SangNguyen\API\ApiTest\ApiTemplate\obj\Debug\netcoreapp2.1\ApiTemplate.RazorAssemblyInfo.cs
+G:\SangNguyen\API\ApiTest\ApiTemplate\obj\Debug\netcoreapp2.1\ApiTemplate.AssemblyInfoInputs.cache
+G:\SangNguyen\API\ApiTest\ApiTemplate\obj\Debug\netcoreapp2.1\ApiTemplate.AssemblyInfo.cs
+G:\SangNguyen\API\ApiTest\ApiTemplate\obj\Debug\netcoreapp2.1\ApiTemplate.RazorTargetAssemblyInfo.cache
+G:\SangNguyen\API\ApiTest\ApiTemplate\obj\Debug\netcoreapp2.1\ApiTemplate.dll
+G:\SangNguyen\API\ApiTest\ApiTemplate\obj\Debug\netcoreapp2.1\ApiTemplate.pdb
